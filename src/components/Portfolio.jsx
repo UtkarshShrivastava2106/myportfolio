@@ -2,7 +2,7 @@ import React from 'react'
 import '../CSS/Portfolio.css';
 import IMG1 from '../assets/portfolio1.jpg'
 import IMG2 from '../assets/portfolio2.jpg'
-import IMG3 from '../assets/portfolio3.jpg'
+import IMG3 from '../assets/images.jpg'
 import IMG4 from '../assets/portfolio4.jpg'
 import IMG5 from '../assets/portfolio5.png'
 import IMG6 from '../assets/portfolio6.jpg'
@@ -18,7 +18,7 @@ const Portfolio = () => {
           <img src={IMG1} alt='MC'/>
         </div>
 <div className="portfolio_item-image">
-  <h3>This is portfolio title</h3>
+  <h3>CryptoVerse Web-App</h3>
   <div className='portfolio__item-cta'>
   < a href="https://github.com/UtkarshShrivastava2106" className='btn'>GitHub</a>
   < a href="" className='btn-primary'>Live Demo</a>
@@ -30,9 +30,9 @@ const Portfolio = () => {
           <img src={IMG2} alt="mcc"/>
         </div>
 <div className="portfolio_item-image">
-  <h3>This is portfolio title</h3>
+  <h3>React- Sound Visualizer</h3>
   <div className='portfolio__item-cta'>
-  < a href="https://github.com/UtkarshShrivastava2106" className='btn'>GitHub</a>
+  < a href="https://github.com/UtkarshShrivastava2106/cryptoverse-webapp" className='btn'>GitHub</a>
   < a href="" className='btn-primary'>Live Demo</a>
 </div>
 </div>
@@ -42,7 +42,7 @@ const Portfolio = () => {
           <img src={IMG3} alt='MC'/>
         </div>
 <div className="portfolio_item-image">
-  <h3>This is portfolio title</h3>
+  <h3>Real-time Social media App</h3>
   <div className='portfolio__item-cta'>
   < a href="https://github.com/UtkarshShrivastava2106" className='btn'>GitHub</a>
   < a href="" className='btn-primary'>Live Demo</a>
@@ -54,7 +54,7 @@ const Portfolio = () => {
           <img src={IMG4} alt='MC'/>
         </div>
 <div className="portfolio_item-image">
-  <h3>This is portfolio title</h3>
+  <h3>CryptoVerse App- a cryptocurrency app</h3>
   <div className='portfolio__item-cta'>
   < a href="https://github.com/UtkarshShrivastava2106" className='btn'>GitHub</a>
   < a href="" className='btn-primary'>Live Demo</a>
